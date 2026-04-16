@@ -1,5 +1,5 @@
 def main():
-  #print('You rolled a die')
+  pass
 
 if __name__== "__main__":
   main()
